@@ -52,18 +52,21 @@
       <map>
         <entry key="$USER_HOME$/.pyenv/versions/animark/bin/python" value="false" />
         <entry key="$USER_HOME$/.pyenv/versions/django-tutorial/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/drftutor/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/.pyenv/versions/animark/bin/python" value="false" />
         <entry key="$USER_HOME$/.pyenv/versions/django-tutorial/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/drftutor/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/.pyenv/versions/animark/bin/python" value="false" />
         <entry key="$USER_HOME$/.pyenv/versions/django-tutorial/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/drftutor/bin/python" value="false" />
       </map>
     </option>
   </component>
